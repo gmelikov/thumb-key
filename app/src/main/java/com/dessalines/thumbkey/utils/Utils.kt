@@ -55,7 +55,6 @@ import kotlin.math.sqrt
 const val TAG = "com.thumbkey"
 
 const val IME_ACTION_CUSTOM_LABEL = EditorInfo.IME_MASK_ACTION + 1
-const val ANIMATION_SPEED = 300
 
 fun accelCurve(
     offset: Float,
